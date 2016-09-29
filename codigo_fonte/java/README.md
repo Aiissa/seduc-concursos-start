@@ -5,6 +5,8 @@ Level: Intermediate
 Technologies: AngularJS, CDI, JPA, EJB, JPA, JAX-RS, BV  
 Summary: An example that incorporates multiple technologies  
 
+JAVA !!!!!
+
 What is it?
 -----------
 
